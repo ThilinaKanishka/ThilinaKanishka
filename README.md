@@ -11,10 +11,10 @@
 
 - 💬 Ask me about **Ask me about Web development | OOC**
 
+- 🧠  I'm learning Flutter and Machine Learning
+
 - 📫 How to reach me **thilina20010313@gmail.com**
 
-- 🧠  I'm learning Flutter and Machine Learning
-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
