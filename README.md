@@ -9,6 +9,7 @@
   </a>
 </p>
 
+
 ---
 
 ## 🚀 About Me
@@ -126,10 +127,50 @@ Currently pursuing my degree at SLIIT while expanding my skills in advanced tech
 
 ---
 
+## 📊 GitHub Activity Graph
+
 <div align="center">
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <!-- GitHub Activity Graph with Animation -->
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=thilinakanishka&theme=github-dark&area=true&hide_border=true&custom_title=My%20Development%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area_color=0d47a1"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=thilinakanishka&theme=github-light&area=true&hide_border=true&custom_title=My%20Development%20Activity&bg_color=ffffff&color=0366d6&line=0366d6&point=1f6feb&area_color=bbdfff"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilinakanishka&theme=github&area=true&hide_border=true&custom_title=My%20Development%20Activity" alt="GitHub Activity Graph" />
+  </picture>
 
-  *"Turning ideas into interactive experiences, one line of code at a time."*
+</div>
+
+
+<div align="center">
   
+  <!-- Animated Quote Text -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Creating+impactful+solutions+with+code"
+    alt="Typing SVG"
+  />
+  
+  <br/><br/>
+  
+  <!-- Thanks for visiting animation (similar to screenshot) -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=fff&animation=fadeIn"
+    alt="Footer"
+  />
+
+</div>
+
+<!-- Snake Game Animation (GitHub Contribution Graph) -->
+<div align="center">
+  
+  <img 
+    src="https://raw.githubusercontent.com/thilinakanishka/thilinakanishka/output/github-contribution-grid-snake.svg" 
+    alt="Contribution Snake Animation" 
+  />
+
 </div>
