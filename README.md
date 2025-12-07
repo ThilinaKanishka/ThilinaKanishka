@@ -79,25 +79,6 @@ Currently pursuing my degree at SLIIT while expanding my skills in advanced tech
 
 ---
 
-## 🌟 Featured Projects
-
-### 🤖 **AI Image Processing Tool** 
-*Deep Learning-based image enhancement and manipulation tool*
-- **Tech**: Python, TensorFlow, OpenCV, React
-- **Features**: Image segmentation, style transfer, object detection
-
-### 📱 **E-Commerce Mobile App** 
-*Cross-platform shopping application with AR features*
-- **Tech**: Flutter, Dart, Firebase, Node.js
-- **Features**: AR product visualization, real-time chat, payment integration
-
-### 🌐 **Real-time Dashboard** 
-*Interactive web dashboard with animated visualizations*
-- **Tech**: React, D3.js, WebSocket, Express.js
-- **Features**: Real-time data updates, interactive charts, custom animations
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
